@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[PivotGridInplaceEditorsController.cs](./CS/WinSample.Module.Win/PivotGridInplaceEditorsController.cs) (VB: [PivotGridInplaceEditorsController.vb](./VB/WinSample.Module.Win/PivotGridInplaceEditorsController.vb))**
+<!-- default file list end -->
 # How to make PivotGridControl editable when using the Pivot Chart (Analysis) module
 
 
